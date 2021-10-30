@@ -1,5 +1,5 @@
 const PriorityQueue = require('./PriorityQueue.js');
-const testGraph = require('./testGraph.js');
+const testGraph = require('./dijkstrasTestGraph.js');
 
 const dijkstras = (graph, startingVertex) => {
 	const distances = {};

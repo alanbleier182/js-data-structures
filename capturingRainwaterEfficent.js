@@ -29,6 +29,3 @@ function capturingRainwater(heights) {
 
 const testArray = [4, 2, 1, 3, 0, 1, 2];
 console.log(capturingRainwter(testArray));
-
-// Leave this so that we can test your code:
-module.exports = capturingRainwater;
